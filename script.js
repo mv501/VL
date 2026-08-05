@@ -1,4 +1,4 @@
-const music = document.getElementById("music");
+const music = document.getElementById("Bishtar Bishtar.mp3");
 
 const startScreen = document.getElementById("startScreen");
 
