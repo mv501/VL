@@ -43,7 +43,6 @@ Start Music
 =============================*/
 
 function startExperience(){
-    alert("button clicked");
 
     startScreen.style.display="none";
 
